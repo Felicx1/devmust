@@ -1,0 +1,109 @@
+
+---Downloaded files---
+The import files for: Braintech Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://devmusttechnologies.com
+Data file = /var/www/html/wordpress/wp-content/uploads/2024/05/demo-content-import-file_2024-05-27__15-13-22.xml
+Widget file = /var/www/html/wordpress/wp-content/uploads/2024/05/demo-widgets-import-file_2024-05-27__15-13-22.json
+Customizer file = not defined!
+Redux files:
+braintech_option -> /var/www/html/wordpress/wp-content/uploads/2024/05/demo-redux-import-file_0-2024-05-27__15-13-22.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+RS Recent Post Widget - Recent Posts - Imported
+Categories - No Title - Imported
+
+Off Canvas Sidebar : 
+
+Text - No Title - Imported
+
+Project Sidebar : 
+
+Custom HTML - Brochures - Imported
+Custom HTML - No Title - Imported
+
+Service Sidebar : 
+
+Navigation Menu - No Title - Imported
+
+CTA Widget : 
+
+RS CTA Info - Grow Your Business and Build Your Website or Software With Us. - Imported
+
+Footer One Widget Area : 
+
+Custom HTML - No Title - Imported
+RS Social Icon Widget - No Title - Imported
+
+Footer Two Widget Area : 
+
+Navigation Menu - IT Services - Imported
+
+Footer Three Widget Area : 
+
+RS Contact Info - Contact Info - Imported
+
+Footer Four Widget Area : 
+
+Custom HTML - Newsletter - Imported
+
+Copyright Right : 
+
+Navigation Menu - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: braintech_option finished successfully!
+
+---ocdi/after_import---
+
